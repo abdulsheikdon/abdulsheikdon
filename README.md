@@ -5,7 +5,7 @@
 - Specialized in cloud infrastructure automation, container orchestration, and observability (Docker, Kubernetes, Terraform, Prometheus, Grafana, k6)
 - Message me if you want to code!  -> 
 
-[![LinkedIn](https://img.sheilds.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abdulsheikdon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abdulsheikdon)
 
 ## Skills
 p<p align="left">
